@@ -13,3 +13,9 @@ A simple CLI wrapper for wttr.in written in C
     -f  print full weather in detail for today
    
     -d  print weather for today
+
+# Installation
+
+    git clone https://github.com/L4ze3/wttr.git
+    cd wttr
+    sudo make install
