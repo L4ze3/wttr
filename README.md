@@ -16,6 +16,6 @@ A simple CLI wrapper for wttr.in written in C
 
 # Installation
 
-    git clone https://github.com/L4ze3/wttr.git
+    git clone https://github.com/L4ze3/wttr
     cd wttr
     sudo make install
