@@ -19,3 +19,6 @@ A simple CLI wrapper for wttr.in written in C
     git clone https://github.com/L4ze3/wttr
     cd wttr
     sudo make install
+
+# Uninstall
+    sudo make uninstall
