@@ -2,7 +2,7 @@
 A simple CLI wrapper for wttr.in written in C
 
 # Usage
-wttr [citie] -[vqfd]
+wttr [city] -[vqfd]
 
 Options:
   -v  print full weather for today and the next two days
